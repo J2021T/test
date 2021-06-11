@@ -5,7 +5,7 @@
   ## Table of Contents
   * [Usage](#usage)
   * [Installation](#installation)
-* [License](#license)
+  * [License](#license)
 
   ## Installation
   undefined
