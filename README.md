@@ -38,10 +38,10 @@
   
   
   ## Questions
-  GitHub: [J2021T](https://github.com/J2021T)
+  GitHub: [J2021T](https://github.com/J2021T)\n
   Email: [jordan.turcott@gmail.com](mailto:jordan.turcott@gmail.com)
   
   
   ## License
-  This project is covered under the [MIT](../assets/license-files/MIT.txt) license.
+  This project is covered under the [MIT](../assets/license-files/MIT.txt) license.\n
   ![MIT License](https://img.shields.io/badge/license-MIT-blue)
