@@ -7,7 +7,7 @@
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Deployed Application Link](#deployedapplicationlink)
+  * [Deployed Application Link](#deployed-application-link)
   * [Deployed Application Screenshot](#deployedapplicationscreenshot)
   * [Result Screenshot](#resultscreenshot)
   * [Credits](#credits)
