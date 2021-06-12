@@ -1,4 +1,5 @@
- # Link
+
+  # Link
   * ![MIT License](https://img.shields.io/badge/license-MIT-blue)
 
   ## Description
@@ -7,9 +8,9 @@
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Deployed Application Link](#deployed-application-link)
-  * [Deployed Application Screenshot](#deployedapplicationscreenshot)
-  * [Result Screenshot](#resultscreenshot)
+  * [Deployed-Application-Link](#deployed-application-link)
+  * [Deployed-Application-Screenshot](#deployed-application-screenshot)
+  * [Result-Screenshot](#result-screenshot)
   * [Credits](#credits)
   * [Contributing](#contributing)
   * [Tests](#tests)
@@ -19,24 +20,24 @@
   
   ## Installation
   *  Get Link's number
-  *  Put Link's number in your phone
+  *  Put Link's number in phone
   
   
   ## Usage
   Text Link
   
   
-  ## Deployed Application Link
+  ## Deployed-Application-Link
   
-  Link.com
+  undefined
   
   
-  ## Deployed Application Screenshot
+  ## Deployed-Application-Screenshot
   
   ![Alt-text](assets/images/*REMOVE AND ADD YOUR FILE NAME*.png "PLACE YOUR ALT TEXT HERE")
   
   
-  ## Result Screenshot
+  ## Result-Screenshot
   
   ![Alt-text](assets/images/*REMOVE AND ADD YOUR FILE NAME*.png "PLACE YOUR ALT TEXT HERE")
   
@@ -49,20 +50,22 @@
   
   
   ## Contributing
-  Clone the repo and use it.
+  Clone the repo and make tweaks that you want
   
   
   ## Tests
-  Clone the repo and use it.
+  Play Zelda
   
   
   ## Questions
   GitHub: [Link2021](https://github.com/Link2021)
 
-  EMAIL: [Link@gmial](mailto:Link@gmial)
+  EMAIL: [Linkmail](mailto:Linkmail)
   
   
   ## License
   This project is covered under the [MIT](../assets/license-files/MIT.txt) license.
 
  ![MIT License](https://img.shields.io/badge/license-MIT-blue)
+  
+  
