@@ -38,7 +38,7 @@
   
   
   ## Questions
-  [J2021T](https://github.com/J2021T
+  [J2021T](https://github.com/J2021T)
       [jordan.turcott@gmail.com](mailto:jordan.turcott@gmail.com)
   
   
